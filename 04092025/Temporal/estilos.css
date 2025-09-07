@@ -1,0 +1,25 @@
+body{
+    background-color: #E0FFFF;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 2em; 
+}
+p{
+    color: gray;
+    font-size: 2em; 
+}
+/*Comentario*/
+
+.parrafo1 {
+    color: blue;
+    background-color: blueviolet;
+    font-size: 3em;;
+}
+
+/* id declaracion -> # */
+#parrafo2{
+    text-align: center;
+}
