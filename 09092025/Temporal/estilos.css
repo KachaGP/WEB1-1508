@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0%;
+    background-color: rgba(203, 233, 324, 245);
+
+}
+
+
+    /* Encabesado */
+    header {
+        background-color: rgb(225, 56, 158);
+        color: white;
+        padding: 10px 0px;
+        align-items: center;
+    }
+
+    header .logo h1{
+        margin: 0px;
+        padding-left: 23px;
+    }
+   
+
+    nav ul li {
+        display: inline;
+        margin-right: 245px;
+    }
+
+    section {
+        background-color: rgb(140, 56, 122);
+        color: white;
+        padding: 35px;
+        margin: 10px;
+        border-radius: 32px;
+        box-shadow: 2px 3px 4px black;
+    }
+
+    /* Pie de pagina */
+       footer {
+        background-color: rgb(225, 56, 158);
+        color: white;
+        padding: 10px 0px;
+        align-items: center;
+    }
