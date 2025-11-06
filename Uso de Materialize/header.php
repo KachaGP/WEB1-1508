@@ -22,8 +22,11 @@
   <!-- Navbar principal -->
   <nav>
     <div class="nav-wrapper light-blue accent-3" style="height:85px;">
-      <a href="<?php echo $basePath; ?>index.php" class="brand-logo" style="margin-left: 40px; font-size: 40px;" > Registro de usuarios <img src="<?php echo $basePath; ?>multimedia/caminando.gif" alt="" style="height: 70px; width: auto; vertical-align: middle;"></a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <a href="<?php echo $basePath; ?>index.php" class="brand-logo" style="margin-left: 40px; font-size: 40px;" > Registro de usuarios 
+        <img src="<?php echo $basePath; ?>multimedia/caminando.gif" alt="" style="height: 70px; width: auto; vertical-align: middle;">
+          <a href="<?php echo $basePath; ?>https://kachagp.ct.ws/" class="brand-logo" style="margin-left: 700px; font-size: 30px;" >JUEGO INSANO</a>
+      
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
      <a href="<?php echo $basePath; ?>logica/create.php" style="margin-right: 40px; font-size: 30px;"><img src="<?php echo $basePath; ?>multimedia/usuario.ico" alt="" style="height: 70px; width: auto; vertical-align: middle;"></a>
       </ul>
     </div>
