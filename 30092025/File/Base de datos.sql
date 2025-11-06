@@ -1,8 +1,8 @@
 -- Crear la base de datos
 create database crud_app;
 
--- selecion de base de datos
-use crud_app
+-- Selecion de base de datos
+use crud_app;
 
 -- Crear tabla de usuarios
 create table usuarios(
